@@ -12,3 +12,7 @@ Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām izmantojot githu
 ## Skatīt arī
  * [uBlock Origin](https://github.com/gorhill/uBlock)
  * [EasyList](https://easylist.to/)
+
+## Saraksta pievienošana uBlock Origin
+
+Lai pievienotu sarakstu, jāizvēlas `Filter lists` -> `Import` un tur, jāiekopē links uz aktuālo sarakstu `master` zarā: `https://github.com/gatisr/adblock-latvian/blob/master/lists/latvian-list.txt`
