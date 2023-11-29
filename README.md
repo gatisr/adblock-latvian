@@ -15,4 +15,4 @@ Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām izmantojot githu
 
 ## Saraksta pievienošana uBlock Origin
 
-Lai pievienotu sarakstu, jāizvēlas `Filter lists` -> `Import` un tur, jāiekopē links uz aktuālo sarakstu `master` zarā: `https://github.com/gatisr/adblock-latvian/blob/master/lists/latvian-list.txt`
+Lai pievienotu sarakstu, jāizvēlas `Filter lists` -> `Import` un tur, jāiekopē links uz aktuālo sarakstu `master` zarā: `https://raw.githubusercontent.com/gatisr/adblock-latvian/master/lists/latvian-list.txt`
