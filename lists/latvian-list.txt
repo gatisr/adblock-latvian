@@ -329,6 +329,7 @@ kurpirkt.lv##.labsblock2
 kurpirkt.lv##.producttd[style="border:solid 1px #448c26;background:#fafafa;"]
 la.lv##.side-banner
 lattelecom.lv##[id^="fixme_"]
+lvportals.lv###cookiescript_injected_wrapper
 lsm.lv##.adbox
 mail.inbox.lv##tr[id^="row"]
 miljons.com###opencredit
