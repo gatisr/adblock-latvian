@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/gatisr/adblock-latvian
 ! Expires: 4 days
 ! Version: 202311141723
-! Last modified: 2023-11-14 17:23 UTC
+! Last modified: 2024-01-17 12:51 UTC
 ! Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
 !
 ! Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām šeit:
@@ -329,6 +329,7 @@ kurpirkt.lv##.labsblock2
 kurpirkt.lv##.producttd[style="border:solid 1px #448c26;background:#fafafa;"]
 la.lv##.side-banner
 lattelecom.lv##[id^="fixme_"]
+likumi.lv###cookiescript_injected_wrapper
 lvportals.lv###cookiescript_injected_wrapper
 lsm.lv##.adbox
 mail.inbox.lv##tr[id^="row"]
