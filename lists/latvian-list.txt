@@ -433,15 +433,6 @@ vgk.lv##.infobox
 zeltazivtina.lv###banner
 zip.lv###perkam_group_banner
 zip.lv##.zip_spotlight.main_td
-diena.lv###tagcloud
-kursors.lv##.pum
-lasi.lv##.article-advertisement
-pilseta24.lv##.card--alternative
-pilseta24.lv##.row > .text-center
-pilseta24.lv##.text-center.card
-pilseta24.lv#?#p:has(> a[href*=img])
-sportazinas.com##.category-summary--content-intro
-sportazinas.com##.related--ads
 zz.lv#?#.widget_execphp:has([class^=tag][class*=cloud])
 zz.lv,staburags.lv,aluksniesiem.lv,bauskasdzive.lv,dzirkstele.lv,ziemellatvija.lv,rekurzeme.lv##.content-add-desktop-description
 zz.lv,staburags.lv,aluksniesiem.lv,bauskasdzive.lv,dzirkstele.lv,ziemellatvija.lv,rekurzeme.lv#?#.widget_execphp:has-text(Reklāmraksti)
