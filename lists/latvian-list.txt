@@ -3,7 +3,7 @@
 ! Title: Latvian List v2
 ! Homepage: https://github.com/gatisr/adblock-latvian
 ! Expires: 4 days
-! Version: 202403311723
+! Version: 202405141251
 ! Last modified: 2024-05-14 12:51 UTC
 ! Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
 !
