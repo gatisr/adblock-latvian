@@ -227,6 +227,7 @@
 ! ---------- Site specific element hiding filters ----------
 !
 1188.lv##.LabsservissAdd
+play.1188.lv###cookiescript_injected_wrapper
 1a.lv##.creamcredit
 1s.lv##.reklama2
 apollo.tvnet.lv###e-shop-banner-block
