@@ -3,8 +3,8 @@
 ! Title: Latvian List v2
 ! Homepage: https://github.com/gatisr/adblock-latvian
 ! Expires: 4 days
-! Version: 202405141251
-! Last modified: 2024-05-14 12:51 UTC
+! Version: 202409051251
+! Last modified: 2024-09-05 12:51 UTC
 ! Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
 !
 ! Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām šeit:
@@ -309,6 +309,9 @@ google.lv###rhscol
 google.lv###taw
 gramata.ucoz.lv##[style="text-align:center;border:1px dashed #000000;width:468px;height:60px;position:absolute;overflow:hidden;margin-top:-20px;margin-right:160px;"]
 gramata.ucoz.lv##[style^="background-image:none !important"]
+ibanka.seb.lv##.seb-cookiemessage.content-cookie.seb-cookie-consent
+ibanka.seb.lv##ngb-modal-window.show.fade.modal.d-block:nth-of-type(2)
+ibanka.seb.lv##ngb-modal-window.show.fade.modal.d-block:nth-of-type(1)
 ideal.lv###cookie-selection > .cookiemessage
 imperija.lv###type_products:style(overflow:scroll!important)
 inbox.lv###inboxshops_div
