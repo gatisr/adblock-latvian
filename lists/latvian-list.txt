@@ -454,3 +454,10 @@ tvnet.lv,apollo.lv#@#.adBanner
 tvnet.lv,apollo.lv#@#.dfp_ad
 varianti.lv#@##ad_table
 varianti.lv#@#.single_ad
+
+
+!
+! ---------------- Additional (not LV) --------------
+!
+zojirushi.com##.truste_overlay
+zojirushi.com##.truste_box_overlay
